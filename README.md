@@ -9,20 +9,11 @@ I have build this project for technical test
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Result
-### Home
-![](./1.png)
+![Screenshot_4](https://user-images.githubusercontent.com/31552910/219813240-61e15c08-8981-4eae-9308-6b89d8e9c8e4.png)
+![Screenshot_1](https://user-images.githubusercontent.com/31552910/219813253-b8eb908e-765a-4e60-843f-3bf1501868f4.png)
+![Screenshot_2](https://user-images.githubusercontent.com/31552910/219813266-c7123450-52b9-4da3-aedb-587d35af9e20.png)
+![Screenshot_3](https://user-images.githubusercontent.com/31552910/219813272-bebd7b44-a44e-42ba-accc-2bf85bc95ab5.png)
 
-### Loading
-![](./2.png)
-
-### Recent Search
-![](./3.png)
-
-### Popular Search
-![](./4.png)
-
-### Search Result
-![](./5.png)
 
 ## Development
 
